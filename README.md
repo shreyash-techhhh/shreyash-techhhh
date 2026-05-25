@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Shreyash 
 
-<!--
-**shreyash-techhhh/shreyash-techhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- IoT Developer
+- Python Programmer
+- ESP32 Project Builder
+- Web Development Learner
+- Data Scraping & Analytics
+## 🛠 Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- ESP32
+- SQL
+- Git & GitHub
+## 📌 Projects
+- Smart Door Lock System
+- Musical Fountain using ESP32
+- Vijay Sales Data Scraper
+- Portfolio Website
+## 📫 Contact
+- Email: yourmail@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
