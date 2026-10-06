@@ -20,6 +20,6 @@
 - Vijay Sales Data Scraper
 - Portfolio Website
 ## 📫 Contact
-- Email: yourmail@gmail.com
+- Email: jarvisstark989@gmail.com
 
 
